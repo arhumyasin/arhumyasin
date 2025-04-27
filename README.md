@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Arhum yasin:
 ⛏️ I’m currently working on building creative Frontend Projects using React.js and JavaScript.<br>🤝 I’m looking to collaborate on exciting Frontend projects and UI/UX improvements.<br>🙌 I’m looking for help with mastering JavaScript and advanced animations with GSAP.<br>🌱 I’m currently learning JavaScript deeply to strengthen my web development skills.<br>💬 Ask me about Frontend Development, Website Animations, and how to start your coding journey!<br>⚡ Fun fact: I love giving life to websites with smooth animations and clean designs!
 
 
